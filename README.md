@@ -1,16 +1,57 @@
-# React + Vite
+# AI-Assisted GPT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A ChatGPT-inspired AI chatbot built to strengthen my Full Stack Development skills.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+AI-Assisted GPT is a web-based chatbot where users can interact with an AI assistant through a clean and responsive chat interface.
 
-## React Compiler
+I built this project to understand how a React frontend communicates with a Node.js/Express backend and how an AI API can be integrated into a real-world application.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Backend
+- Node.js
+- Express.js
+- REST API
+
+### AI
+- OpenAI API
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Vite
+
+## Features
+
+- Chat with an AI assistant
+- Responsive chat interface
+- Loading / typing indicator
+- Auto-scrolling chat
+- Conversation context
+- User and AI message separation
+- Backend API integration
+
+## Project Structure
+
+```text
+AI-assisted-GPT/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   └── ...
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   └── ...
+├── public/
+├── package.json
+└── README.md
