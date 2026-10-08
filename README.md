@@ -1,5 +1,8 @@
 # AI-Assisted GPT
 
+<img width="901" height="842" alt="image" src="https://github.com/user-attachments/assets/4b69aa11-ff76-4a98-9607-6e1f32e59506" />
+
+
 A ChatGPT-inspired AI chatbot built to strengthen my Full Stack Development skills.
 
 ## About the Project
